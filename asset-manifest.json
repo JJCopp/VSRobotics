@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/VSRobotics/static/js/main.1be3fd2e.chunk.js",
+    "main.js.map": "/VSRobotics/static/js/main.1be3fd2e.chunk.js.map",
+    "runtime-main.js": "/VSRobotics/static/js/runtime-main.4ea2b186.js",
+    "runtime-main.js.map": "/VSRobotics/static/js/runtime-main.4ea2b186.js.map",
+    "static/css/2.ca1b75dc.chunk.css": "/VSRobotics/static/css/2.ca1b75dc.chunk.css",
+    "static/js/2.c9103e50.chunk.js": "/VSRobotics/static/js/2.c9103e50.chunk.js",
+    "static/js/2.c9103e50.chunk.js.map": "/VSRobotics/static/js/2.c9103e50.chunk.js.map",
+    "index.html": "/VSRobotics/index.html",
+    "static/css/2.ca1b75dc.chunk.css.map": "/VSRobotics/static/css/2.ca1b75dc.chunk.css.map",
+    "static/js/2.c9103e50.chunk.js.LICENSE.txt": "/VSRobotics/static/js/2.c9103e50.chunk.js.LICENSE.txt",
+    "static/media/ComputerFrame.232acd41.jpg": "/VSRobotics/static/media/ComputerFrame.232acd41.jpg",
+    "static/media/Golf-bays.90e582af.jpg": "/VSRobotics/static/media/Golf-bays.90e582af.jpg",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/VSRobotics/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/VSRobotics/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/PPgun.f8888ed3.jpg": "/VSRobotics/static/media/PPgun.f8888ed3.jpg",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/VSRobotics/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/Sedes.07e948ac.jpg": "/VSRobotics/static/media/Sedes.07e948ac.jpg",
+    "static/media/cactus2.510825b6.jpg": "/VSRobotics/static/media/cactus2.510825b6.jpg",
+    "static/media/f35Helmetfront.14b79c61.jpg": "/VSRobotics/static/media/f35Helmetfront.14b79c61.jpg",
+    "static/media/hero.18bf9733.jpg": "/VSRobotics/static/media/hero.18bf9733.jpg",
+    "static/media/projectImg.771236e1.png": "/VSRobotics/static/media/projectImg.771236e1.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/VSRobotics/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/VSRobotics/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea2b186.js",
+    "static/css/2.ca1b75dc.chunk.css",
+    "static/js/2.c9103e50.chunk.js",
+    "static/js/main.1be3fd2e.chunk.js"
+  ]
+}
